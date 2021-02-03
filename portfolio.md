@@ -39,11 +39,8 @@ font-weight:bold">
 ## Project
 ---
 
-* **Visual Object Tracking Using Plenoptic Image Sequences**
+* ****
 
-과학기술정보통신부-한성대 프로젝트 : 학부생 인턴
-
-Lightfield 영상에서의 Siamease Network를 이용한 단일 객체 추적
 
 
 ## Skills and Certification
