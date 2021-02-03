@@ -15,7 +15,7 @@ font-weight:bold">
 </span>
 </center>
 
-<center>MAJOR : PROGRAMER</center>
+<center>MAJOR : PROGRAMMER</center>
 
 <center>Induk University</center>
 
