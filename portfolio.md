@@ -17,7 +17,7 @@ font-weight:bold">
 
 <center>MAJOR : PROGRAMER</center>
 
-<center>Korean University</center>
+<center>Induk University</center>
 
 <center>85, Opesanlo, Gangbuk-gu, Seoul, Republic of Korea</center>
 
