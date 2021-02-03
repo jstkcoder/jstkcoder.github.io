@@ -23,7 +23,7 @@ font-weight:bold">
 
 ## Personal Data
 ---
-> 1995.11.4 대한민국,서울특별시,도봉구 출생
+> 1993.09.08 대한민국,서울특별시,도봉구 출생
 
 > 연락처: js.tkcoder@gmail.com
 
